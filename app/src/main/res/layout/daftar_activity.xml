@@ -13,6 +13,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="8dp"
+            android:background="@drawable/gradient"
             android:hint="Nama Lengkap"
             android:inputType="textCapWords"/>
 
@@ -26,6 +27,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="8dp"
+            android:background="@drawable/gradient"
             android:hint="NIK"
             android:inputType="number"/>
 
@@ -38,6 +40,7 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/gradient"
             android:layout_margin="8dp"
             android:hint="No WhatApp"
             android:inputType="phone"/>
